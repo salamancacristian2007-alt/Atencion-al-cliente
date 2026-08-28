@@ -1,0 +1,6 @@
+{
+  "name": "Soporte Técnico",
+  "description": "Aplicación de soporte técnico para computadores con módulos para Cliente y Técnico en Android / Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
